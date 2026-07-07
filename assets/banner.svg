@@ -1,0 +1,227 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500"
+xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#080808"/>
+<stop offset="100%" stop-color="#111111"/>
+</linearGradient>
+<linearGradient id="cyanGlow">
+<stop offset="0%" stop-color="#00E5FF"/>
+<stop offset="100%" stop-color="#66FFFF"/>
+</linearGradient>
+<filter id="glow">
+<feGaussianBlur stdDeviation="5"/>
+</filter>
+</defs>
+<rect width="1600" height="500" fill="url(#bg)"/>
+<!-- Left Glow -->
+<circle
+cx="280"
+cy="250"
+r="180"
+fill="#00E5FF"
+opacity=".07"/>
+<!-- Right Glow -->
+<circle
+cx="1350"
+cy="180"
+r="160"
+fill="#00E5FF"
+opacity=".04"/>
+<!-- Spider Web -->
+<path d="M1570 0 L1470 100 M1600 30 L1500 130 M1540 0 L1540 150"
+stroke="#333"
+stroke-width="1"/>
+<circle cx="1540" cy="70" r="60"
+fill="none"
+stroke="#222"/>
+<circle cx="1540" cy="70" r="45"
+fill="none"
+stroke="#222"/>
+<circle cx="1540" cy="70" r="30"
+fill="none"
+stroke="#222"/>
+<!-- Chain -->
+
+<ellipse cx="110" cy="30"
+rx="12"
+ry="22"
+stroke="#654321"
+fill="none"/>
+<ellipse cx="110" cy="68"
+rx="12"
+ry="22"
+stroke="#654321"
+fill="none"/>
+<ellipse cx="110" cy="106"
+rx="12"
+ry="22"
+stroke="#654321"
+fill="none"/>
+<ellipse cx="110" cy="144"
+rx="12"
+ry="22"
+stroke="#654321"
+fill="none"/>
+
+<!-- Cyan Accent -->
+<rect
+x="0"
+y="486"
+width="1600"
+height="14"
+fill="#00E5FF"/>
+<!-- Name -->
+<text
+x="220"
+y="170"
+fill="white"
+font-size="64"
+font-family="Segoe UI"
+font-weight="700">
+Sameeksha Singh
+</text>
+<!-- Subtitle -->
+<text
+x="223"
+y="230"
+
+fill="#00E5FF"
+
+font-size="30"
+
+font-family="Segoe UI">
+
+Aspiring AI Engineer
+
+</text>
+
+<!-- Quote -->
+
+<text
+
+x="225"
+
+y="290"
+
+fill="#BBBBBB"
+
+font-size="24"
+
+font-family="Segoe UI">
+
+Curious mind turning ideas into projects
+
+</text>
+
+<text
+
+x="225"
+
+y="325"
+
+fill="#BBBBBB"
+
+font-size="24"
+
+font-family="Segoe UI">
+
+through AI, code and continuous learning.
+
+</text>
+
+<!-- Glass Card -->
+
+<rect
+
+x="900"
+
+y="110"
+
+width="420"
+
+height="240"
+
+rx="30"
+
+fill="white"
+
+opacity=".04"
+
+stroke="#00E5FF"
+
+stroke-opacity=".3"/>
+
+<text
+
+x="940"
+
+y="170"
+
+fill="#00E5FF"
+
+font-size="26"
+
+font-family="Segoe UI">
+
+Current Focus
+
+</text>
+
+<text
+
+x="940"
+
+y="220"
+
+fill="white"
+
+font-size="22">
+
+• Machine Learning
+
+</text>
+
+<text
+
+x="940"
+
+y="260"
+
+fill="white"
+
+font-size="22">
+
+• Fraud Detection
+
+</text>
+
+<text
+
+x="940"
+
+y="300"
+
+fill="white"
+
+font-size="22">
+
+• DSA
+
+</text>
+
+<text
+
+x="940"
+
+y="340"
+
+fill="white"
+
+font-size="22">
+
+• Building Every Day
+
+</text>
+
+</svg>
