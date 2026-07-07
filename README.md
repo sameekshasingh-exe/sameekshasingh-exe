@@ -8,9 +8,8 @@
 
 <!-- Profile Picture -->
 
-<img src="./assets/profile.png" width="170px" style="border-radius:50%;" />
+### ✦────────✦ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>   Welcome  ✦────────✦
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Sameeksha Singh
 
 ### **Aspiring AI Engineer • Machine Learning Enthusiast**
 
@@ -32,8 +31,6 @@
 
 ```yaml
 Name        : Sameeksha Singh
-
-Pronouns    : She / Her
 
 Education   : B.Tech Electronics & Communication Engineering
 
