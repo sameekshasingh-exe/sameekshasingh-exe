@@ -275,37 +275,31 @@ Python • C++ • Machine Learning • DSA • Figma
 
 <!-- Profile Placeholder -->
 
-<circle
+<image
+href="./profile.jpg"
+x="1035"
+y="80"
+width="320"
+height="340"
+preserveAspectRatio="xMidYMid slice"/>
 
-cx="1220"
-
-cy="250"
-
-r="135"
-
-fill="#1B1B1B"
-
+<rect
+x="1035"
+y="80"
+width="320"
+height="340"
+fill="none"
 stroke="#00E5FF"
+stroke-width="3"/>
 
-stroke-width="4"
-
-filter="url(#glow)"/>
-
-<text
-
-x="1155"
-
-y="258"
-
-fill="#FFFFFF"
-
-font-size="20"
-
-font-family="Segoe UI">
-
-YOUR PHOTO
-
-</text>
+<rect
+x="1025"
+y="70"
+width="340"
+height="360"
+fill="none"
+stroke="#7A5B3A"
+stroke-width="1"/>
 
 <text
 
