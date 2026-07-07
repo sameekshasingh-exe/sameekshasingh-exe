@@ -1,0 +1,27 @@
+<svg width="300"
+height="500"
+xmlns="http://www.w3.org/2000/svg">
+
+<g stroke="#654321"
+fill="none"
+stroke-width="3">
+
+<ellipse cx="150" cy="40" rx="18" ry="32"/>
+
+<ellipse cx="150" cy="95" rx="18" ry="32"/>
+
+<ellipse cx="150" cy="150" rx="18" ry="32"/>
+
+<ellipse cx="150" cy="205" rx="18" ry="32"/>
+
+<ellipse cx="150" cy="260" rx="18" ry="32"/>
+
+<ellipse cx="150" cy="315" rx="18" ry="32"/>
+
+<ellipse cx="150" cy="370" rx="18" ry="32"/>
+
+<ellipse cx="150" cy="425" rx="18" ry="32"/>
+
+</g>
+
+</svg>
