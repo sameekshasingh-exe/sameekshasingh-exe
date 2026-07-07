@@ -276,7 +276,7 @@ Python • C++ • Machine Learning • DSA • Figma
 <!-- Profile Placeholder -->
 
 <image
-href="./profile.jpeg"
+href="./profile.jpg"
 x="1035"
 y="80"
 width="320"
@@ -301,21 +301,6 @@ fill="none"
 stroke="#7A5B3A"
 stroke-width="1"/>
 
-<text
-
-x="1128"
-
-y="286"
-
-fill="#9DA5B4"
-
-font-size="14"
-
-font-family="Segoe UI">
-
-(blurred portrait)
-
-</text>
 
 <!-- Decorative Dots -->
 
