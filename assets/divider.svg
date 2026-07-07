@@ -1,0 +1,16 @@
+<svg width="1200" height="80"
+xmlns="http://www.w3.org/2000/svg">
+<line
+x1="0"
+y1="40"
+x2="1200"
+y2="40"
+stroke="#00E5FF"
+stroke-opacity=".4"
+stroke-width="2"/>
+<circle
+cx="600"
+cy="40"
+r="10"
+fill="#00E5FF"/>
+</svg>
