@@ -8,7 +8,7 @@
 
 <!-- Profile Picture -->
 
-### ✦────────✦ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>   Welcome  ✦────────✦
+### ✦────────✦  🕸  Welcome  🕸   ✦────────✦
 
 
 ### **Aspiring AI Engineer • Machine Learning Enthusiast**
@@ -25,35 +25,8 @@
 
 </div>
 
----
 
-# ⚡ About Me
-
-```yaml
-Name        : Sameeksha Singh
-
-Education   : B.Tech Electronics & Communication Engineering
-
-College     : Indira Gandhi Delhi Technical University for Women
-
-Graduation  : 2029
-
-Location    : Delhi, India
-
-Current     : Student
-
-Dream Role  : AI Engineer
-
-Currently   :
-    - Machine Learning
-    - Data Structures & Algorithms
-    - UI/UX (Figma)
-    - Building Real Projects
-
-```
-
----
-
+<br><br>
 ## 🖤 A little about me...
 
 Hi! I'm **Sameeksha**, a B.Tech Electronics and Communication Engineering student at **IGDTUW** with a growing passion for **Artificial Intelligence**, **Machine Learning**, and **Data Structures & Algorithms**.
@@ -68,23 +41,7 @@ My long-term goal is simple:
 
 ---
 
-# ⚙ Current Focus
 
-```text
-Building
-
-██████████░░░░░░░░░ Fraud Detection Project
-
-████████████░░░░░░░ DSA
-
-█████████░░░░░░░░░░ Machine Learning
-
-███████░░░░░░░░░░░░ UI/UX
-
-█████░░░░░░░░░░░░░░ System Design
-```
-
----
 
 # 🌙 Interests
 
@@ -99,67 +56,6 @@ Building
 
 </div>
 
----
-
-# 🎯 Developer Philosophy
-
-> **Curious mind turning ideas into projects through AI, code, and continuous learning.**
-
-> **Learning, building, and growing — one project at a time.**
-
----
-
-# 🕸 Fun Timeline
-
-```text
-Turbo C++
-
-        ↓
-
-First Program
-
-        ↓
-
-Discovered Problem Solving
-
-        ↓
-
-Started DSA
-
-        ↓
-
-Hackathons
-
-        ↓
-
-Funded ML Internship
-
-        ↓
-
-Building Fraud Detection
-
-        ↓
-
-AI Engineer (Loading...)
-```
-
----
-
-<div align="center">
-
-## ⚡ Current Status
-
-🌱 Learning something every day
-
-💻 Building consistently
-
-🤝 Always open to collaboration
-
-☕ Powered by coffee and curiosity
-
-</div>
-
----
 
 <br>
 
@@ -252,7 +148,7 @@ Daily IDE
 
 UI / UX
 
-</td>
+</td> 
 
 </tr>
 
@@ -299,63 +195,6 @@ UI / UX
 
 ---
 
-# 🌌 Journey So Far
-
-```text
-2025
-│
-├── Started B.Tech @ IGDTUW
-│
-├── Rediscovered Programming
-│
-├── Started learning C++
-│
-├── Fell in love with DSA
-│
-├── Built Python Mini Projects
-│
-├── Participated in Hackathons
-│
-├── Funded Machine Learning Internship
-│
-├── Learning Figma
-│
-├── Credit Card Fraud Detection Project
-│
-└── AI Engineer Journey Begins...
-```
-
----
-
-# 💼 Experience
-
-### 🏢 Funded Machine Learning Internship
-
-```yaml
-Role:
-    Machine Learning Intern
-
-Worked On:
-    • Data Preprocessing
-
-    • Model Training
-
-    • Feature Engineering
-
-    • Classification Models
-
-Learned:
-    • Real-world ML Workflow
-
-    • Team Collaboration
-
-    • Documentation
-
-    • Building Projects
-```
-
----
-
 # 🏆 Achievements
 
 <div align="center">
@@ -371,58 +210,8 @@ Learned:
 
 </div>
 
----
-
-# 📖 Currently Learning
-
-```python
-class Sameeksha:
-
-    learning = [
-        "Machine Learning",
-        "Data Structures",
-        "Algorithms",
-        "Figma",
-        "System Design Basics",
-        "Open Source"
-    ]
-
-    goal = "Become an AI Engineer"
-
-    motto = "Learn → Build → Improve → Repeat"
-
-```
 
 ---
-
-# 🎯 2026 Goals
-
-- ✅ Complete Fraud Detection Project
-
-- 🔄 Build Portfolio Website
-
-- 🔄 Solve 300+ LeetCode Problems
-
-- 🔄 Publish ML Projects
-
-- 🔄 Read Research Papers
-
-- 🔄 Contribute to Open Source
-
-- 🔄 Learn Deep Learning
-
-- 🔄 Become Internship Ready
-
----
-
-<div align="center">
-
-## 🌙 Favorite Quote
-
-*"Stay curious. Build often. Let your work speak louder than your words."*
-
-</div>
-
 
 <br>
 
@@ -573,89 +362,10 @@ Examples
 
 ---
 
-# 🏅 Hackathons
-
-<div align="center">
-
-| Event | Description |
-|-------|-------------|
-| 🚀 E-Summit IIITD | Learned rapid prototyping and teamwork |
-| 💡 Future Goal | Participate in national AI hackathons |
-| 🤝 Team Leadership | Led and collaborated during internship and hackathons |
-
-</div>
-
----
-
-# 📜 Certifications
-
-```text
-Google
-██████████░░░░░
-
-IBM
-████████░░░░░░
-
-Coursera
-██████░░░░░░░░
-
-NPTEL
-████░░░░░░░░░░
-
-More Coming Soon...
-```
-
----
-
-# 📚 Research
-
-Current Status
-
-🟢 Reading research papers in
-
-• Fraud Detection
-
-• Machine Learning
-
-• Explainable AI
-
-Goal
-
-Publish research during college.
-
----
-
-# 🌱 Current Learning Roadmap
-
-```text
-Python
-     │
-     ▼
-Data Structures
-     │
-     ▼
-Machine Learning
-     │
-     ▼
-Deep Learning
-     │
-     ▼
-Computer Vision
-     │
-     ▼
-Generative AI
-     │
-     ▼
-AI Engineer
-```
-
----
-
 # 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameekshasingh-exe&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -669,95 +379,20 @@ AI Engineer
 
 ---
 
-# 🐍 Contribution Snake
+
+<h3 align="center">🐍 Contribution Matrix</h3>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sameekshasingh-exe/sameekshasingh-exe/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# 🌌 Beyond Coding
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-🧠
-
-### Learning
-
-Building knowledge one concept at a time.
-
-</td>
-
-<td align="center">
-
-💙
-
-### Collaboration
-
-Always open to learning with others.
-
-</td>
-
-<td align="center">
-
-🚀
-
-### Growth
-
-Small improvements every day.
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🎯 Current Mission
-
-```text
-Learn.
-
-↓
-
-Build.
-
-↓
-
-Fail.
-
-↓
-
-Improve.
-
-↓
-
-Repeat.
-
-↓
-
-Create AI that solves real problems.
-```
-
----
-
-<div align="center">
-
-## 💬 Personal Motto
-
-> "Success isn't one big breakthrough. It's hundreds of small commits that no one sees."
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sameekshasingh-exe/sameekshasingh-exe/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sameekshasingh-exe/sameekshasingh-exe/output/github-contribution-grid-snake.svg" />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/sameekshasingh-exe/sameekshasingh-exe/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -789,127 +424,6 @@ Made with ❤️, curiosity, and lots of coffee.
 
 </div>
 
----
-
-# 🌌 My Learning Philosophy
-
-<div align="center">
-
-> **Curiosity fuels learning.**
->
-> **Consistency builds skill.**
->
-> **Projects create experience.**
->
-> **Experience shapes engineers.**
-
-</div>
-
----
-
-# ⚡ What I'm Working On
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-## 🤖 AI
-
-Learning
-
-Machine Learning
-
-Research Papers
-
-Fraud Detection
-
-</td>
-
-<td width="33%" align="center">
-
-## 💻 Coding
-
-DSA
-
-LeetCode
-
-Python
-
-C++
-
-</td>
-
-<td width="33%" align="center">
-
-## 🎨 Design
-
-Figma
-
-Glassmorphism
-
-Minimal UI
-
-Portfolio
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📅 2026–2029 Roadmap
-
-```text
-2026
-
-✔ Learn Python
-
-✔ Learn DSA
-
-✔ Machine Learning Internship
-
-✔ Hackathons
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-2027
-
-□ Deep Learning
-
-□ Open Source
-
-□ Research Papers
-
-□ Major AI Projects
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-2028
-
-□ AI Internship
-
-□ Publish Portfolio
-
-□ Competitive Programming
-
-□ National Hackathons
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-2029
-
-□ Graduate from IGDTUW
-
-□ Become AI Engineer
-
-□ Build Real Products
-```
-
----
 
 # 🖤 Connect With Me
 
@@ -937,75 +451,10 @@ Portfolio
 
 ---
 
-# 🌑 Developer Mindset
+## <div align="center"> 🌙 Thanks for stopping by.
 
-```cpp
-while(alive)
-{
-    learn();
-
-    build();
-
-    improve();
-
-    repeat();
-}
-```
-
----
-
-# 🕸️ Current Goals
-
-- 🚀 Complete Credit Card Fraud Detection Project
-- 📘 Read 15+ Machine Learning Research Papers
-- 💻 Solve 300+ LeetCode Problems
-- 🌐 Build Personal Portfolio
-- 🤝 Contribute to Open Source
-- 📚 Learn Deep Learning
-- 🎯 Become Internship Ready
-
----
-
-# 🧩 Personal Snapshot
-
-```yaml
-Name:
-  Sameeksha Singh
-
-Role:
-  Aspiring AI Engineer
-
-College:
-  IGDTUW
-
-Degree:
-  B.Tech Electronics & Communication Engineering
-
-Passions:
-  - Artificial Intelligence
-  - Machine Learning
-  - DSA
-  - Hackathons
-  - UI/UX
-
-Learning:
-  - Machine Learning
-  - System Design
-  - Deep Learning
-  - Open Source
-
-Dream:
-  Build AI products that solve real-world problems.
-```
-
----
-
-<div align="center">
-
-## 🌙 Thanks for stopping by.
-
-*"Learning isn't a race.
-It's a collection of small wins repeated every day."*
+ <div align="center"> *"Learning isn't a race.
+ <div align="center"> It's a collection of small wins repeated every day."*
 
 <br>
 
