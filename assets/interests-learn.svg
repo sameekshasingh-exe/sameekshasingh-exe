@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="625.2" height="46.0" viewBox="0 0 625.2 46.0">
+<defs>
+<linearGradient id="cyanGrad" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#063A45"/>
+<stop offset="55%" stop-color="#00A6C7"/>
+<stop offset="100%" stop-color="#4DF0FF"/>
+</linearGradient>
+<linearGradient id="violetGrad" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#3B1E78"/>
+<stop offset="55%" stop-color="#7B4FE0"/>
+<stop offset="100%" stop-color="#B39CFF"/>
+</linearGradient>
+<linearGradient id="darkGrad" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#05070A"/>
+<stop offset="100%" stop-color="#1B222C"/>
+</linearGradient>
+<filter id="cyanGlow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="violetGlow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+
+<rect x="2.0" y="2.0" width="111.2" height="42" rx="21.0" ry="21.0" fill="url(#cyanGrad)" stroke="#8FF3FF" stroke-width="1.5"/>
+<text x="57.6" y="28.2" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#03181D" textLength="82.6" lengthAdjust="spacingAndGlyphs">🌱 FIGMA</text>
+<rect x="127.2" y="2.0" width="159.2" height="42" rx="21.0" ry="21.0" fill="url(#cyanGrad)" stroke="#8FF3FF" stroke-width="1.5"/>
+<text x="206.8" y="28.2" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#03181D" textLength="130.6" lengthAdjust="spacingAndGlyphs">🌱 TENSORFLOW</text>
+<rect x="300.4" y="2.0" width="120.8" height="42" rx="21.0" ry="21.0" fill="url(#cyanGrad)" stroke="#8FF3FF" stroke-width="1.5"/>
+<text x="360.8" y="28.2" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#03181D" textLength="92.2" lengthAdjust="spacingAndGlyphs">🌱 OPENCV</text>
+<rect x="435.2" y="2.0" width="188.0" height="42" rx="21.0" ry="21.0" fill="url(#cyanGrad)" stroke="#8FF3FF" stroke-width="1.5"/>
+<text x="529.2" y="28.2" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#03181D" textLength="159.4" lengthAdjust="spacingAndGlyphs">🌱 DEEP LEARNING</text>
+</svg>

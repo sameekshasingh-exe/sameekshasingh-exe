@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="721.2" height="46.0" viewBox="0 0 721.2 46.0">
+<defs>
+<linearGradient id="cyanGrad" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#063A45"/>
+<stop offset="55%" stop-color="#00A6C7"/>
+<stop offset="100%" stop-color="#4DF0FF"/>
+</linearGradient>
+<linearGradient id="violetGrad" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#3B1E78"/>
+<stop offset="55%" stop-color="#7B4FE0"/>
+<stop offset="100%" stop-color="#B39CFF"/>
+</linearGradient>
+<linearGradient id="darkGrad" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#05070A"/>
+<stop offset="100%" stop-color="#1B222C"/>
+</linearGradient>
+<filter id="cyanGlow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="violetGlow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+
+<rect x="2.0" y="2.0" width="216.8" height="42" rx="21.0" ry="21.0" fill="url(#darkGrad)" stroke="#00E5FF55" stroke-width="1.5"/>
+<text x="110.4" y="28.2" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#00E5FF" textLength="188.2" lengthAdjust="spacingAndGlyphs">❤ MACHINE LEARNING</text>
+<rect x="232.8" y="2.0" width="92.0" height="42" rx="21.0" ry="21.0" fill="url(#darkGrad)" stroke="#00E5FF55" stroke-width="1.5"/>
+<text x="278.8" y="28.2" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#00E5FF" textLength="63.4" lengthAdjust="spacingAndGlyphs">❤ DSA</text>
+<rect x="338.8" y="2.0" width="159.2" height="42" rx="21.0" ry="21.0" fill="url(#darkGrad)" stroke="#00E5FF55" stroke-width="1.5"/>
+<text x="418.4" y="28.2" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#00E5FF" textLength="130.6" lengthAdjust="spacingAndGlyphs">❤ HACKATHONS</text>
+<rect x="512.0" y="2.0" width="207.2" height="42" rx="21.0" ry="21.0" fill="url(#darkGrad)" stroke="#00E5FF55" stroke-width="1.5"/>
+<text x="615.6" y="28.2" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#00E5FF" textLength="178.6" lengthAdjust="spacingAndGlyphs">❤ PROBLEM SOLVING</text>
+</svg>
