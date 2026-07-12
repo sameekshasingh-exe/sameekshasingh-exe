@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="242" viewBox="0 0 960 242">
+<defs>
+<linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#00A6C7"/>
+<stop offset="100%" stop-color="#4DF0FF"/>
+</linearGradient>
+</defs>
+
+<text x="20" y="35" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">Python</text>
+<text x="450" y="35" text-anchor="end" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#4DF0FF">80%</text>
+<rect x="20" y="45" width="430" height="14" rx="7.0" fill="#12181F" stroke="#00E5FF33" stroke-width="1"/>
+<rect x="20" y="45" width="344.0" height="14" rx="7.0" fill="url(#barGrad)"/>
+<text x="490" y="35" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">C++</text>
+<text x="920" y="35" text-anchor="end" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#4DF0FF">70%</text>
+<rect x="490" y="45" width="430" height="14" rx="7.0" fill="#12181F" stroke="#00E5FF33" stroke-width="1"/>
+<rect x="490" y="45" width="301.0" height="14" rx="7.0" fill="url(#barGrad)"/>
+<text x="20" y="109" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">Data Structures</text>
+<text x="450" y="109" text-anchor="end" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#4DF0FF">65%</text>
+<rect x="20" y="119" width="430" height="14" rx="7.0" fill="#12181F" stroke="#00E5FF33" stroke-width="1"/>
+<rect x="20" y="119" width="279.5" height="14" rx="7.0" fill="url(#barGrad)"/>
+<text x="490" y="109" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">Machine Learning</text>
+<text x="920" y="109" text-anchor="end" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#4DF0FF">60%</text>
+<rect x="490" y="119" width="430" height="14" rx="7.0" fill="#12181F" stroke="#00E5FF33" stroke-width="1"/>
+<rect x="490" y="119" width="258.0" height="14" rx="7.0" fill="url(#barGrad)"/>
+<text x="20" y="183" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">Git &amp; GitHub</text>
+<text x="450" y="183" text-anchor="end" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#4DF0FF">75%</text>
+<rect x="20" y="193" width="430" height="14" rx="7.0" fill="#12181F" stroke="#00E5FF33" stroke-width="1"/>
+<rect x="20" y="193" width="322.5" height="14" rx="7.0" fill="url(#barGrad)"/>
+<text x="490" y="183" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">UI/UX (Figma)</text>
+<text x="920" y="183" text-anchor="end" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#4DF0FF">50%</text>
+<rect x="490" y="193" width="430" height="14" rx="7.0" fill="#12181F" stroke="#00E5FF33" stroke-width="1"/>
+<rect x="490" y="193" width="215.0" height="14" rx="7.0" fill="url(#barGrad)"/>
+</svg>
