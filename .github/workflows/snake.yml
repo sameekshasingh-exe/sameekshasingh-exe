@@ -22,13 +22,15 @@ jobs:
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # colors are overridden to match the cyan/dark theme used across the profile README
+      # color_dots go from 0-contribution (empty cell) up to the highest contribution level
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%2300E5FF&color_dots=%23161B22,%23044552,%230891B2,%2300B8D9,%2300E5FF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300E5FF&color_dots=%230D1117,%23044552,%230891B2,%2300B8D9,%2300E5FF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
